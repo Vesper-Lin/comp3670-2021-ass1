@@ -1,4 +1,3 @@
-# Gaussian Elimination & Gram-Schmidt Orthogonalization
-ANU COMP3670 : Introduction to Machine Learning - Assignment 1
+# comp3670-2021-ass1
 
-Mark: 100/100
+Gaussian Elimination and Gram-Schmidt Orthogonalization (ANU COMP3670 assignment).
